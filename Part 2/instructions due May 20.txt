@@ -1,0 +1,19 @@
+Upload compressed folder that contains all required SQL queries (DDL, DML, assertions, triggers, views, schema modifications) in .sql or .txt format and data files in .csv, .json or .dat format.
+
+Implementation & utilization.
+• SQL DDL commands.
+	o Commands used to create & define schema, and create & define constraints.
+• SQL DML commands.
+	o Insert, delete, and update.
+		▪ At least one (1) example of each command (three (3) in total).
+	o Retrieval queries.
+		▪ At least five (5) examples of retrieval queries.
+			• At least two (2) have to be complex (nested, aggregate, group by, having, etc.)
+• Triggers.
+	o At least one (1) example of defined trigger.
+		▪ At least one (1) example of trigger execution.
+• Views.
+	o At least three (3) examples of defined views (virtual tables).
+• Schema modifications.
+	o At least one (1) example of ALTER command.
+• Each SQL query has to be accompanied by the comment describing query purpose.

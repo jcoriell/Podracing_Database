@@ -1,0 +1,6 @@
+Upload compressed folder that contains:
+
+Write-up of the mini-world;
+EER diagram;
+Write-up of the EER-to-relational mapping;
+Relational schema diagram (.mwb file).
